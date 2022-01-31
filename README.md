@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Contagiovaneines">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+ </div>
   
   ##
  
@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 <img align= "center" alt="giovane-css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;">
 <img align= "center" alt="giovane-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="max-width: 100%;">
 <img align= "center" alt="giovane-pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" style="max-width: 100%;">
+ <img align="right" alt="giovane-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/936711724206276669/937739346415607869/Webp.net-gifmaker.gif?width=385&height=385">
 
   ##
 <div> 
