@@ -1,14 +1,22 @@
-português
-- 👋 Oi, eu sou @Contagiovaneines
-- 👀 Estou interessado em estagiar na área de programação.
-- 🌱 Estou aprendendo na escola etec machado de assis, no curso de Tecnico de Desenvolvimento de Sistemas.
-- 📫 Como chegar até mim ? minhas socias está logo abaixo.
+PORTUGUÊS
 
-INGLÊS
-- 👋 Hi, I'm @Contagiovaneines
-- 👀 I'm interested in an intern in the programming area.
-- 🌱 I'm learning at etec machado de assis school, in the Systems Development Technician course.
-- 📫 How to reach me? my partners is just below.
+👋 Oi, eu sou @Contagiovaneines
+👀 Estou interessado em estagiar na área de programação.
+🌱 Sou formado na escola ETEC Machado de Assis, no curso de Técnico de Desenvolvimento de Sistemas.
+🏆 Fui premiado como melhor aluno da ETEC e participei de um intercâmbio cultural em Londres.
+🎓 Atualmente, estou cursando graduação em Sistemas para Internet na UniCesumar.
+🎒 Concluí meu ensino técnico em Desenvolvimento de Sistemas na ETEC Machado de Assis.
+📫 Como entrar em contato comigo? Minhas redes sociais estão logo abaixo.
+
+ENGLISH
+
+👋 Hi, I'm @Contagiovaneines
+👀 I'm interested in an internship in the programming area.
+🌱 I have completed my education at ETEC Machado de Assis, with a degree in Systems Development Technician.
+🏆 I was awarded as the best student at ETEC and had the opportunity to participate in a cultural exchange program in London.
+🎓 Currently, I'm pursuing a degree in Internet Systems at UniCesumar.
+🎒 I have completed my Technical Degree in Systems Development at ETEC Machado de Assis.
+📫 How to reach me? My social media handles are listed below.
 
 <!---
 Contagiovaneines/Contagiovaneines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
