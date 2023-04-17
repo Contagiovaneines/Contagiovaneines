@@ -18,16 +18,22 @@ ENGLISH
 * 🎒 I have completed my Technical Degree in Systems Development at ETEC Machado de Assis.
 * 📫 How to reach me? My social media handles are listed below.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Contagiovaneines=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Contagiovaneines=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Contagiovaneines/Contagiovaneines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 0lá Eu sou Giovane Ines
- 
+ ## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>                             
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+Resultado:
  ##
 
  ![Snake animation](https://github.com/Contagiovaneines/Contagiovaneines/blob/output/github-contribution-grid-snake.svg)  
