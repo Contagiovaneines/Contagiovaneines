@@ -18,6 +18,7 @@ ENGLISH
 * 🎒 I have completed my Technical Degree in Systems Development at ETEC Machado de Assis.
 * 📫 How to reach me? My social media handles are listed below.
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Contagiovaneines/Contagiovaneines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
