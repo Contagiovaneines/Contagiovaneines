@@ -1,5 +1,22 @@
 # 💫 About Me:
-PORTUGUÊS<br><br>* 👋 Oi, eu sou @Contagiovaneines<br>* 👀 Atualmente, estou estagiando como DevOps na Jack Experts, com foco em tecnologias como Docker, Helm e Kubernetes.<br>* 🌱 Sou formado na escola ETEC Machado de Assis, no curso de Técnico de Desenvolvimento de Sistemas.<br>* 🏆 Fui premiado como melhor aluno da ETEC e participei de um intercâmbio cultural em Londres.<br>* 🎓 Atualmente, estou cursando graduação em Sistemas para Internet na UniCesumar.<br>* 🎒 Concluí meu ensino técnico em Desenvolvimento de Sistemas na ETEC Machado de Assis.<br>* 📫 Como entrar em contato comigo? Minhas redes sociais estão logo abaixo.<br><br>ENGLISH<br><br>* 👋 Hi, I'm @Contagiovaneines<br>* 👀 I am currently interning as a DevOps at Jack Experts, focusing on technologies such as Docker, Helm, and Kubernetes.<br>* 🌱 I have completed my education at ETEC Machado de Assis, with a degree in Systems Development Technician.<br>* 🏆 I was awarded as the best student at ETEC and had the opportunity to participate in a cultural exchange program in London.<br>* 🎓 Currently, I'm pursuing a degree in Internet Systems at UniCesumar.<br>* 🎒 I have completed my Technical Degree in Systems Development at ETEC Machado de Assis.<br>* 📫 How to reach me? My social media handles are listed below.<br>
+PORTUGUÊS<br><br>
+* 👋 Oi, eu sou @Contagiovaneines<br>
+* 👀 Atualmente, estou cursando Full Stack na Kaspper Academy e tenho experiência com tecnologias como Docker, Helm e Kubernetes.<br>
+* 🌱 Tenho projetos envolvendo PHP, JavaScript e Rundeck.<br>
+* 🏆 Fui premiado como melhor aluno da ETEC e participei de um intercâmbio cultural em Londres.<br>
+* 🎓 Atualmente, estou cursando graduação em Sistemas para Internet na UniCesumar.<br>
+* 🎒 Concluí meu ensino técnico em Desenvolvimento de Sistemas na ETEC Machado de Assis.<br>
+* 📫 Como entrar em contato comigo? Minhas redes sociais estão logo abaixo.<br><br>
+
+ENGLISH<br><br>
+* 👋 Hi, I'm @Contagiovaneines<br>
+* 👀 I am currently pursuing a Full Stack course at Kaspper Academy and have experience with technologies such as Docker, Helm, and Kubernetes.<br>
+* 🌱 I have projects involving PHP, JavaScript, and Rundeck.<br>
+* 🏆 I was awarded as the best student at ETEC and had the opportunity to participate in a cultural exchange program in London.<br>
+* 🎓 Currently, I'm pursuing a degree in Internet Systems at UniCesumar.<br>
+* 🎒 I have completed my Technical Degree in Systems Development at ETEC Machado de Assis.<br>
+* 📫 How to reach me? My social media handles are listed below.<br>
+
 
 
 ## 🌐 Socials:
