@@ -1,21 +1,27 @@
 # 💫 About Me:
-PORTUGUÊS<br><br>
-* 👋 Oi, eu sou @Contagiovaneines<br>
-* 👀 Atualmente, estou cursando Full Stack na Kaspper Academy e tenho experiência com tecnologias como Docker, Helm e Kubernetes.<br>
-* 🌱 Tenho projetos envolvendo PHP, JavaScript e Rundeck.<br>
-* 🏆 Fui premiado como melhor aluno da ETEC e participei de um intercâmbio cultural em Londres.<br>
-* 🎓 Atualmente, estou cursando graduação em Sistemas para Internet na UniCesumar.<br>
-* 🎒 Concluí meu ensino técnico em Desenvolvimento de Sistemas na ETEC Machado de Assis.<br>
-* 📫 Como entrar em contato comigo? Minhas redes sociais estão logo abaixo.<br><br>
+### PORTUGUÊS
 
-ENGLISH<br><br>
-* 👋 Hi, I'm @Contagiovaneines<br>
-* 👀 I am currently pursuing a Full Stack course at Kaspper Academy and have experience with technologies such as Docker, Helm, and Kubernetes.<br>
-* 🌱 I have projects involving PHP, JavaScript, and Rundeck.<br>
-* 🏆 I was awarded as the best student at ETEC and had the opportunity to participate in a cultural exchange program in London.<br>
-* 🎓 Currently, I'm pursuing a degree in Internet Systems at UniCesumar.<br>
-* 🎒 I have completed my Technical Degree in Systems Development at ETEC Machado de Assis.<br>
-* 📫 How to reach me? My social media handles are listed below.<br>
+- 👋 Oi, eu sou o Giovane Ines (@Contagiovaneines)
+- 👨‍💻 Sou apaixonado por tecnologia e atualmente focado no desenvolvimento fullstack usando **Java**, **Spring Boot**, **Angular**, e **SQL**.
+- 🚀 Tenho experiência prática em **DevOps**, trabalhando com ferramentas como **Docker**, **Helm** e **Kubernetes**.
+- 🌱 Estou sempre expandindo meu conhecimento, com projetos envolvendo **Java**, **Spring Boot**, **Angular** e **SQL**.
+- 🏆 Fui premiado como o melhor aluno da **ETEC Machado de Assis** e tive a oportunidade de participar de um intercâmbio cultural em **Londres**.
+- 🎓 Estou cursando **Tecnologia em Sistemas para Internet** na **UniCesumar** e concluí meu **curso técnico em Desenvolvimento de Sistemas** pela ETEC.
+- 📫 Entre em contato comigo pelas redes sociais abaixo!
+
+---
+
+### ENGLISH
+
+- 👋 Hi, I'm Giovane Ines (@Contagiovaneines)
+- 👨‍💻 I'm passionate about technology and currently focused on fullstack development using **Java**, **Spring Boot**, **Angular**, and **SQL**.
+- 🚀 I have hands-on experience in **DevOps**, working with tools such as **Docker**, **Helm**, and **Kubernetes**.
+- 🌱 I am always expanding my knowledge, with projects involving **Java**, **Spring Boot**, **Angular**, and **SQL**.
+- 🏆 I was awarded as the best student at **ETEC Machado de Assis** and had the opportunity to participate in a cultural exchange program in **London**.
+- 🎓 I'm pursuing a **Bachelor’s degree in Internet Systems** at **UniCesumar**, and I completed my **Technical Degree in Systems Development** at ETEC.
+- 📫 Feel free to reach out to me through the social media links below!
+
+---
 
 
 
