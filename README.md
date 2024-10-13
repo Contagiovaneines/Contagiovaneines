@@ -1,4 +1,9 @@
-# 💫 About Me:
+---
+
+[![](https://visitcount.itsvg.in/api?id=Contagiovaneines&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+# 💫 Sobre mim: 
 ### PORTUGUÊS
 
 - 👋 Oi, eu sou o Giovane Ines (@Contagiovaneines)
@@ -10,6 +15,7 @@
 - 📫 Entre em contato comigo pelas redes sociais abaixo!
 
 ---
+# 💫 About Me:
 
 ### ENGLISH
 
