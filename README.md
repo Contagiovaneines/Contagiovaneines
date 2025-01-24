@@ -1,7 +1,13 @@
-### ✍️ Citação Inspiradora 
+### ✍️ Citação Inspiradora
 
-> *"O trabalho duro vence o dom natural."* – Rock lee
----
+> *"O trabalho duro vence o dom natural."* – 
+<span align="center">
+  Rock Lee
+  <img src="lee.gif" width="50" style="margin-left: 10px; vertical-align: middle;">
+</span>
+
+
+
 ## 🎓 Formação Acadêmica | Education  
 - **Tecnólogo em Sistemas para Internet – UniCesumar** *(2022 – 2025)*  
 - **Técnico em Desenvolvimento de Sistemas – ETEC Machado de Assis** *(2021 – 2022)*  
