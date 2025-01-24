@@ -1,10 +1,6 @@
 ### ✍️ Citação Inspiradora
 
-> *"O trabalho duro vence o dom natural."* – 
-<span align="center">
-  Rock Lee
-  <img src="lee.gif" width="50" style="margin-left: 10px; vertical-align: middle;">
-</span>
+*"O trabalho duro vence o dom natural."* – Rock Lee <img src="lee.gif" width="100" style="margin-left: 10px; vertical-align: middle;">
 
 
 
