@@ -72,7 +72,6 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. S
 
 <div align="center">  
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Contagiovaneines&theme=radical&hide_border=false" alt="GitHub Streak" />  
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&theme=radical&hide_border=false&layout=compact" alt="Top Langs" />  
 </div>
 
