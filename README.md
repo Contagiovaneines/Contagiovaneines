@@ -1,87 +1,117 @@
+## 🎓 Formação Acadêmica | Education  
+- **Tecnólogo em Sistemas para Internet – UniCesumar** *(2022 – 2025)*  
+- **Técnico em Desenvolvimento de Sistemas – ETEC Machado de Assis** *(2021 – 2022)*  
+
 [![](https://visitcount.itsvg.in/api?id=Contagiovaneines&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 Sobre mim | About Me
+# 💫 Sobre mim | About Me  
 
-### 🌎 **Português | English**
-- 👋 Oi, eu sou Giovane Ines (@Contagiovaneines).  
-  👋 Hi, I'm Giovane Ines (@Contagiovaneines).  
-- 👨‍💻 Desenvolvedor Fullstack com foco em **Java**, **Spring Boot**, **Angular**, **SQL** e **WinThor (ERP TOTVS)**.  
-  👨‍💻 Fullstack Developer focusing on **Java**, **Spring Boot**, **Angular**, **SQL**, and **WinThor (TOTVS ERP)**.  
-- 🚀 Experiência prática em **DevOps** com ferramentas como **Docker**, **Helm** e **Kubernetes**.  
-  🚀 Hands-on experience in **DevOps**, working with tools such as **Docker**, **Helm**, and **Kubernetes**.  
-- 🌱 Estou constantemente aprimorando minhas habilidades e participando de projetos que envolvem **ERP**, automação e aplicações web escaláveis.  
-  🌱 Constantly improving my skills and participating in projects involving **ERP**, automation, and scalable web applications.  
-- 📚 Certificações em desenvolvimento web, produtividade e liderança.  
-  📚 Certified in web development, productivity, and leadership.  
+🌎 **Português | English**  
+> 👋 Oi, eu sou Giovane Ines (@Contagiovaneines).  
+> 👋 Hi, I'm Giovane Ines (@Contagiovaneines).  
 
----
+Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. Sempre em busca de aprender, construir e compartilhar conhecimento com a comunidade tech.
 
-## 🌐 Redes Sociais | Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovane-ines)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Contagiovaneines)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=firefox&logoColor=white)](https://contagiovaneines.github.io/)
+- 👨‍💻 Desenvolvedor Fullstack focado em **Java**, **Spring Boot**, **Angular**, **SQL** e **WinThor (ERP TOTVS)**.  
+- 🚀 Experiência prática em **DevOps** com **Docker**, **Helm** e **Kubernetes**.  
+- 🌱 Apaixonado por tecnologia, automação e desenvolvimento de sistemas escaláveis.  
+- 📚 Certificações em **desenvolvimento web**, **produtividade** e **liderança**.  
+
+> 🧑‍🎓 Estou sempre explorando novas tecnologias para expandir minhas habilidades e impactar positivamente os projetos em que trabalho.
 
 ---
 
-## 🚀 Projetos em Destaque | Featured Projects
-- [**Igreja AD Missão Caçapava**](https://github.com/Contagiovaneines/igreja-ad-missao-cacapava): Sistema para gerenciamento de cultos e membros de igreja.  
-- [**Portfólio Giovane**](https://github.com/Contagiovaneines/Giovane-portifolio): Meu portfólio pessoal desenvolvido com HTML, CSS e JavaScript.  
-- [**Sistema de Livros**](https://github.com/Contagiovaneines/Sistemas-Livros): Sistema completo de gerenciamento de biblioteca (Angular + Spring Boot).  
-- [**Bíblia OpenLP OBS**](https://github.com/Contagiovaneines/Biblia_OpenLP_Obs): Projeto para automação e sincronização de apresentações bíblicas.  
-- [**Desafio Ecommerce (Bootcamp Santander)**](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander): Desafio de construção de um e-commerce funcional.  
-- [**Sistema de Biblioteca ETEC**](https://github.com/Contagiovaneines/sistemas-de-biblioteca-etec) *(Privado)*: Sistema acadêmico desenvolvido durante meu curso técnico.  
+## 🌐 Redes Sociais | Socials  
+<p align="center">
+  <a href="https://www.linkedin.com/in/giovane-ines">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Contagiovaneines">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://contagiovaneines.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌱 O que estou aprendendo agora | What I'm Learning
-- **Java avançado** com foco em APIs RESTful e integração com bancos de dados SQL.  
-- **Angular** para construção de interfaces interativas e escaláveis.  
-- Otimização de processos no **ERP WinThor** para empresas.  
+## 💻 Minhas Skills | My Skills  
+
+### **Aplicações e Dados**  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinThor-%23005F99.svg?style=for-the-badge&logo=totvs&logoColor=white" />
+</p>
+
+### **DevOps**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### **Ferramentas de Desenvolvimento**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-%23007ACC.svg?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Próximas Metas | Future Goals
-- Implementar **microservices** em um projeto corporativo.  
-- Certificação em **Kubernetes** e **Spring Professional**.  
-- Automatizar rotinas no **ERP WinThor** usando integrações modernas.  
+### 📊 GitHub Stats  
+
+<div align="center">  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Contagiovaneines&theme=radical&hide_border=false" alt="GitHub Streak" />  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&theme=radical&hide_border=false&layout=compact" alt="Top Langs" />  
+</div>
 
 ---
 
-## 🏆 Experiência | Experience
-- **Auxiliar de Suporte Técnico – AG Distribuidora**  
-  Suporte a sistemas ERP WinThor, administração de redes e análise de dados.  
-- **Estagiário DevOps – Jack Experts**  
-  Gerenciamento de infraestrutura com Kubernetes, Docker e automação com CI/CD.  
-- **Estagiário de TI – Prefeitura de Caçapava**  
-  Desenvolvimento e manutenção de redes e hardware para ambientes governamentais.  
+### ✍️ Citação Inspiradora | Dev Quote  
 
+> *"A única maneira de fazer um ótimo trabalho é amar o que você faz."* – Steve Jobs  
 ---
 
-## 🎓 Formação | Education
+## 🎓 Formação Acadêmica | Education  
 - **Tecnólogo em Sistemas para Internet – UniCesumar** *(2022 – 2025)*  
 - **Técnico em Desenvolvimento de Sistemas – ETEC Machado de Assis** *(2021 – 2022)*  
 
 ---
+### 🏆 GitHub Profile Trophy
 
-## 💻 Habilidades | Skills
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)  
-![WinThor ERP](https://img.shields.io/badge/WinThor-ERP-%230077B5?style=flat)  
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Contagiovaneines&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Contagiovaneines&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&theme=dark&hide_border=false&layout=compact)  
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
----
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
