@@ -1,3 +1,7 @@
+### ✍️ Citação Inspiradora 
+
+> *"O trabalho duro vence o dom natural."* – Rock lee
+---
 ## 🎓 Formação Acadêmica | Education  
 - **Tecnólogo em Sistemas para Internet – UniCesumar** *(2022 – 2025)*  
 - **Técnico em Desenvolvimento de Sistemas – ETEC Machado de Assis** *(2021 – 2022)*  
