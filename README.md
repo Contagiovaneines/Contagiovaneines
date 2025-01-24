@@ -3,7 +3,7 @@
 > *"O trabalho duro vence o dom natural."* – 
 <span align="center">
   Rock Lee
-  <img src="lese.gif" width="50" style="margin-left: 10px; vertical-align: middle;">
+  <img src="lee.gif" width="50" style="margin-left: 10px; vertical-align: middle;">
 </span>
 
 
