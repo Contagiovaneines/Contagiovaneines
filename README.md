@@ -1,7 +1,6 @@
 ## 🎓 Formação Acadêmica | Education  
 - **Tecnólogo em Sistemas para Internet – UniCesumar** *(2022 – 2025)*  
 - **Técnico em Desenvolvimento de Sistemas – ETEC Machado de Assis** *(2021 – 2022)*  
-
 [![](https://visitcount.itsvg.in/api?id=Contagiovaneines&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 Sobre mim | About Me  
@@ -84,11 +83,6 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. S
 > *"A única maneira de fazer um ótimo trabalho é amar o que você faz."* – Steve Jobs  
 ---
 
-## 🎓 Formação Acadêmica | Education  
-- **Tecnólogo em Sistemas para Internet – UniCesumar** *(2022 – 2025)*  
-- **Técnico em Desenvolvimento de Sistemas – ETEC Machado de Assis** *(2021 – 2022)*  
-
----
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
