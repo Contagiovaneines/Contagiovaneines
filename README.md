@@ -43,6 +43,9 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. S
   <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
   <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
+  <a href="https://dart.dev/guides" target="_blank"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="https://flutter.dev/docs" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://docs.flutterflow.io/" target="_blank"><img src="https://img.shields.io/badge/FlutterFlow-%237B1FA2.svg?style=for-the-badge&logo=flutter&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="https://angular.io/docs" target="_blank"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -66,7 +69,6 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. S
   <a href="https://trello.com/guide" target="_blank"><img src="https://img.shields.io/badge/Trello-%23007ACC.svg?style=for-the-badge&logo=trello&logoColor=white" /></a>
   <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" /></a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats  
