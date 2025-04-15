@@ -1,91 +1,72 @@
-*"O trabalho duro vence o dom natural."* – Rock Lee <img src="lee.gif" width="100" style="margin-left: 10px; vertical-align: middle;">
+# "O trabalho duro vence o dom natural." – Rock Lee <img src="lee.gif" width="100" style="margin-left: 10px; vertical-align: middle;">
+
+---
+
 ## 🎓 Formação Acadêmica | Education  
 - **Tecnólogo em Sistemas para Internet – UniCesumar** *(2022 – 2025)*  
 - **Técnico em Desenvolvimento de Sistemas – ETEC Machado de Assis** *(2021 – 2022)*  
 [![](https://visitcount.itsvg.in/api?id=Contagiovaneines&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 Sobre mim | About Me  
+---
 
-🌎 **Português | English**  
-> 👋 Oi, eu sou Giovane Ines (@Contagiovaneines).  
-> 👋 Hi, I'm Giovane Ines (@Contagiovaneines).  
+## 💫 Sobre Mim | About Me  
 
-Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. Sempre em busca de aprender, construir e compartilhar conhecimento com a comunidade tech.
+Sou um desenvolvedor apaixonado por construir soluções inovadoras que agreguem valor aos projetos e empresas. Busco sempre a evolução contínua, seja através de novas ferramentas, tecnologias ou metodologias. Atualmente, estou expandindo minha expertise em **DevOps** e **arquitetura de sistemas**, e adoro compartilhar conhecimento com a comunidade tech.
 
-- 👨‍💻 Desenvolvedor Fullstack focado em **Java**, **Spring Boot**, **Angular**, **SQL** e **WinThor (ERP TOTVS)**.  
-- 🚀 Experiência prática em **DevOps** com **Docker**, **Helm** e **Kubernetes**.  
-- 🌱 Apaixonado por tecnologia, automação e desenvolvimento de sistemas escaláveis.  
-- 📚 Certificações em **desenvolvimento web**, **produtividade** e **liderança**.  
+- 👨‍💻 **Desenvolvedor Fullstack** com foco em **Java**, **Spring Boot**, **Angular**, **SQL** e **WinThor (ERP TOTVS)**.  
+- 🚀 **Experiência prática em DevOps** utilizando **Docker**, **Helm** e **Kubernetes** para automação e escalabilidade de sistemas.  
+- 🌱 Sempre em busca de aprender e aplicar **novas tecnologias** para resolver problemas de forma criativa e impactante.  
+- 💼 **Freelancer** disponível para projetos desafiadores, oferecendo soluções personalizadas e colaborando com empresas de diferentes setores.  
+- 📚 **Certificações** em **desenvolvimento web**, **produtividade** e **liderança**, e sempre buscando aprimorar minhas habilidades.
 
-> 🧑‍🎓 Estou sempre explorando novas tecnologias para expandir minhas habilidades e impactar positivamente os projetos em que trabalho.
+> 🧑‍🎓 Estou constantemente explorando novas ferramentas e frameworks para expandir meu conhecimento, com o objetivo de impactar positivamente os projetos e empresas com os quais colaboro.
 
 ---
 
-## 🌐 Redes Sociais | Socials  
-<p align="center">
-  <a href="https://www.linkedin.com/in/giovane-ines">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Contagiovaneines">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://contagiovaneines.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+## 🌐 Redes Sociais | Socials
+- [LinkedIn](https://www.linkedin.com/in/giovane-ines)
+- [GitHub](https://github.com/Contagiovaneines)
+- [Portfolio](https://contagiovaneines.github.io/)
 
 ---
 
 ## 💻 Minhas Skills | My Skills  
 
-### **Aplicações e Dados**  
-<p align="center">
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a href="https://dart.dev/guides" target="_blank"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /></a>
-  <a href="https://flutter.dev/docs" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="https://docs.flutterflow.io/" target="_blank"><img src="https://img.shields.io/badge/FlutterFlow-%237B1FA2.svg?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://angular.io/docs" target="_blank"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://produtos.totvs.com/protheus-erp" target="_blank"><img src="https://img.shields.io/badge/WinThor-%23005F99.svg?style=for-the-badge&logo=totvs&logoColor=white" /></a>
-</p>
+### Desenvolvimento  
+- **Java**, **Spring Boot**, **Angular**, **Flutter**, **Dart**
 
-### **DevOps**  
-<p align="center">
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://helm.sh/docs/" target="_blank"><img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" /></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://docs.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### Banco de Dados  
+- **MySQL**, **PostgreSQL**, **SQL**
 
-### **Ferramentas de Desenvolvimento**  
-<p align="center">
-  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://www.eclipse.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white" /></a>
-  <a href="https://trello.com/guide" target="_blank"><img src="https://img.shields.io/badge/Trello-%23007ACC.svg?style=for-the-badge&logo=trello&logoColor=white" /></a>
-  <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" /></a>
-</p>
+### DevOps  
+- **Docker**, **Kubernetes**, **Helm**
+
+### Ferramentas  
+- **Visual Studio Code**, **Android Studio**, **Postman**
+
 ---
 
-### 📊 GitHub Stats  
+## 💼 Meus Projetos | My Projects  
+- [Projeto A](https://github.com/Contagiovaneines/projeto-a): Descrição breve do projeto.
+- [Projeto B](https://github.com/Contagiovaneines/projeto-b): Descrição breve do projeto.
 
-<div align="center">  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&theme=radical&hide_border=false&layout=compact" alt="Top Langs" />  
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-### ✍️ Citação Inspiradora | Dev Quote  
+## ✍️ Citação Inspiradora | Dev Quote  
 
 > *"A única maneira de fazer um ótimo trabalho é amar o que você faz."* – Steve Jobs  
+
 ---
 
-### 🏆 GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
   <a
