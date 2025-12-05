@@ -1,119 +1,97 @@
-# "O trabalho duro vence o dom natural." – Rock Lee <img src="lee.gif" width="100" style="margin-left: 10px; vertical-align: middle;">
-
-## 🎓 Formação Acadêmica | Education  
-- **Tecnólogo em Sistemas para Internet – UniCesumar** *(2022 – 2025)*  
-- **Técnico em Desenvolvimento de Sistemas – ETEC Machado de Assis** *(2021 – 2022)*  
-[![](https://visitcount.itsvg.in/api?id=Contagiovaneines&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## 💫 Sobre mim | About Me  
-
-🌎 **Português | English**  
-> 👋 Oi, eu sou Giovane Ines (@Contagiovaneines).  
-> 👋 Hi, I'm Giovane Ines (@Contagiovaneines).  
-
-Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. Tenho um forte compromisso com a aprendizagem contínua e o compartilhamento de conhecimento com a comunidade tech.
-
-- 👨‍💻 **Desenvolvedor Fullstack** com foco em **Java**, **Spring Boot**, **Angular**, **SQL** e **WinThor (ERP TOTVS)**.  
-- 🚀 **Experiência prática em DevOps** utilizando **Docker**, **Helm** e **Kubernetes** para automação e escalabilidade de sistemas.  
-- 🌱 Sempre em busca de aprender e aplicar **novas tecnologias** para resolver problemas de forma criativa e impactante.  
-- 💼 **Freelancer** disponível para projetos desafiadores, oferecendo soluções personalizadas e colaborando com empresas de diferentes setores.  
-- 📚 **Certificações** em **desenvolvimento web**, **produtividade** e **liderança**, e sempre buscando aprimorar minhas habilidades.  
-
-> 🧑‍🎓 Estou constantemente explorando novas ferramentas e frameworks para expandir meu conhecimento, com o objetivo de impactar positivamente os projetos e empresas com os quais colaboro.
-
----
-
-## 🌐 Redes Sociais | Socials  
-<p align="center">
-  <a href="https://www.linkedin.com/in/giovane-ines">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Contagiovaneines">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://contagiovaneines.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💻 Minhas Skills | My Skills  
-
-### **Aplicações e Dados**  
-<p align="center">
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a href="https://dart.dev/guides" target="_blank"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /></a>
-  <a href="https://flutter.dev/docs" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="https://docs.flutterflow.io/" target="_blank"><img src="https://img.shields.io/badge/FlutterFlow-%237B1FA2.svg?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://angular.io/docs" target="_blank"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://produtos.totvs.com/protheus-erp" target="_blank"><img src="https://img.shields.io/badge/WinThor-%23005F99.svg?style=for-the-badge&logo=totvs&logoColor=white" /></a>
-</p>
-
-### **DevOps**  
-<p align="center">
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://helm.sh/docs/" target="_blank"><img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" /></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://docs.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-### **Ferramentas de Desenvolvimento**  
-<p align="center">
-  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
-  <a href="https://www.eclipse.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white" /></a>
-  <a href="https://trello.com/guide" target="_blank"><img src="https://img.shields.io/badge/Trello-%23007ACC.svg?style=for-the-badge&logo=trello&logoColor=white" /></a>
-  <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<div align="center">  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&theme=radical&hide_border=false&layout=compact" alt="Top Langs" />  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Mobile+Flutter+Developer;Front-end+Specialist;React+%7C+Next.js+%7C+Angular;TypeScript+Lover" alt="Typing SVG" />
 </div>
 
----
-
-### ✍️ Citação Inspiradora | Dev Quote  
-
-> *"A única maneira de fazer um ótimo trabalho é amar o que você faz."* – Steve Jobs  
----
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+<div align="center">
+  <img src="lee.gif" width="60" style="vertical-align: middle;">
+  <h3 style="display: inline;">"O trabalho duro vence o dom natural." – Rock Lee</h3>
+</div>
 
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  
+  ## 👋 Sobre Mim | About Me
+  
+  > 🚀 **Desenvolvedor Mobile & Front-end** focado em criar experiências digitais fluidas e pixel-perfect.
+  
+  Sou apaixonado por transformar ideias em aplicações reais. Com um forte background técnico, migrei meu foco para a **experiência do usuário** através do **Flutter** no mobile e **React/Next.js/Angular** na web. Busco projetos desafiadores onde possa aplicar arquitetura limpa e UI moderna.
+
+  <a href="https://www.linkedin.com/in/giovane-ines">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://contagiovaneines.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+---
+
+## 🛠️ Tech Stack | Arsenal
+
+### 📱 **Mobile & Core**
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</div>
+
+### 💻 **Front-end Moderno**
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+### 🗄️ **Backend & Ferramentas (Background)**
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinThor-005F99?style=for-the-badge&logo=totvs&logoColor=white" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Contagiovaneines">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iuricode&column=7&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎓 Formação Acadêmica
+  
+  | Curso | Instituição | Período |
+  | :--- | :---: | :---: |
+  | **Sistemas para Internet** | UniCesumar | *2022 – 2025* |
+  | **Téc. Desenv. Sistemas** | ETEC Machado de Assis | *2021 – 2022* |
+
+  <br>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Contagiovaneines/count.svg)
+  
+</div>
