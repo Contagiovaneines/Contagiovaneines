@@ -23,7 +23,7 @@
           ✝️ <b>Sobre mim:</b> Cristão (AD Missão Caçapava), movido pela ética e vontade de aprender. Não importa se é madrugada ou fim de semana: se o desafio é bom, eu estou dentro.
         </p>
         <br>
-        <a href="https://www.linkedin.com/in/giovane-ines">
+        <a href="https://www.linkedin.com/in/giovaneines/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
         </a>
         <a href="mailto:giovaneines.umadec@gmail.com">
