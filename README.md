@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=GIOVANE%20INES&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Mobile%20%26%20Front-end%20Specialist&descSize=25&descAlignY=65&descAlign=50"/>
-</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
