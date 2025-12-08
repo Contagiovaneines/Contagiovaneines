@@ -1,83 +1,54 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3F51B5&background=00000000&center=true&vCenter=true&width=600&lines=Mobile+Flutter+Developer;Front-end+React+Developer" alt="Typing SVG" />
-  </a>
-</div>
+# Hi there 👋, I'm Giovane Inês Da Silva!
 
-<br>
+💻 A passionate **Dev Flutter & Front-end Specialist** who loves crafting engaging digital experiences. With a strong background in **TypeScript, Angular, and React**, I bring ideas to life with clean, efficient code. 🚀
 
-<div align="center">
-  <table border="0" width="95%">
-    <tr>
-      <td width="30%" align="center" valign="center">
-        <img src="lee.gif" width="160" style="border-radius: 100%; border: 4px solid #3F51B5;">
-        <br><br>
-        <i>"O trabalho duro vence o dom natural."</i>
-      </td>
-      <td width="70%" valign="center">
-        <h2 style="color: #3F51B5;">👋 Olá, eu sou Giovane!</h2>
-        <p>
-          Desenvolvedor focado em <b>soluções reais</b>. Transformo café e código em aplicações móveis fluidas e interfaces web de alta performance.
-        </p>
-        <p>
-          ✝️ <b>Sobre mim:</b> Cristão (AD Missão Caçapava), movido pela ética e vontade de aprender. Não importa se é madrugada ou fim de semana: se o desafio é bom, eu estou dentro.
-        </p>
-        <br>
-        <a href="https://www.linkedin.com/in/giovaneines/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="mailto:giovaneines.umadec@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-        </a>
-        <a href="https://giovane-portfolio.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+🎓 Honored as a **Top Student at ETEC '23** and currently pursuing my studies at UniCesumar. My journey has also taken me across the globe as a **London Exchange Alumnus**, broadening my perspective on technology and innovation. 🌍
 
-<br>
+Currently, you'll find me immersed in exciting projects, from building robust e-commerce solutions to developing intuitive front-end applications, always striving to create impactful user experiences. I'm based in caçapava-sp, Brazil. ✨
 
-<div align="center">
-  <table width="95%" style="border: 1px solid #ddd; border-radius: 10px;">
-    <tr>
-      <td align="center">
-        <h3>🏆 TOP ACHIEVEMENT: INTERCÂMBIO EM LONDRES (2022) 🇬🇧</h3>
-        <p>
-          Eleito <b>Melhor Aluno da ETEC</b> entre milhares de estudantes. <br>
-          Ganhei uma bolsa integral para estudar na Inglaterra. Essa experiência provou minha dedicação, capacidade de adaptação e inglês prático.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📈 GitHub Stats & More
 
-<br>
+[![Followers](https://img.shields.io/github/followers/Contagiovaneines?style=social)](https://github.com/Contagiovaneines)
+[![GitHub Stars](https://img.shields.io/github/stars/Contagiovaneines?style=social)](https://github.com/Contagiovaneines)
+[![GitHub Forks](https://img.shields.io/github/forks/Contagiovaneines?style=social)](https://github.com/Contagiovaneines)
 
-<h3 align="center">🛠️ Tech Stack & Arsenal</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Contagiovaneines.Contagiovaneines)
 
-<br>
+## 🛠️ My Toolkit
 
-<h3 align="center">⚡ Geek & Interests</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Hunter_x_Hunter-Fan-green?style=flat-square&logo=myanimelist&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Marvel_%26_DC-Lover-red?style=flat-square&logo=marvel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Senhor_dos_Anéis-Saga-yellow?style=flat-square&logo=ring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Star_Wars-Fan-black?style=flat-square&logo=starwars&logoColor=white"/>
-</div>
+Here are some of the technologies and tools I love to work with:
+
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+</p>
+
+## 🌟 Featured Projects
+
+A peek into some of my recent work that I'm proud of:
+
+| Project Name | Description | Stars |
+|---|---|---|
+| [Desafio-ecommerce-Dio-Bootcamp-Santander](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander) | An e-commerce challenge from the DIO Bootcamp Santander. | ⭐️ 4 |
+| [SistemaDeOficio](https://github.com/Contagiovaneines/SistemaDeOficio) | Login screen for the SME Oficio system. | ⭐️ 2 |
+| [Front-Angular](https://github.com/Contagiovaneines/Front-Angular) | A front-end project demonstrating Angular capabilities. | ⭐️ 2 |
+| [desafio-instagram-dio](https://github.com/Contagiovaneines/desafio-instagram-dio) | Instagram UI clone challenge from DIO. | ⭐️ 2 |
+
+## 🔒 Quality & Reliability
+
+I believe in building secure and sustainable software. You'll find that **6 of my repositories are safely licensed and actively maintained**, reflecting my commitment to reliable and responsible contribution.
+
+## 📊 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="Contagiovaneines's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&layout=compact&theme=tokyo-night&hide_border=true" alt="Contagiovaneines's Top Languages" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Contagiovaneines&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
+</p>
