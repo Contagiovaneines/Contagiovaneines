@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=GIOVANE%20INES&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Mobile%20%26%20Front-end%20Specialist&descSize=25&descAlignY=65&descAlign=50"/>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3F51B5&background=00000000&center=true&vCenter=true&width=600&lines=Mobile+Flutter+Developer;Front-end+React+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3F51B5&background=00000000&center=true&vCenter=true&width=600&lines=Mobile+Flutter+Developer;Desenvolvedor+Mobile+Flutter;Front-end+React+Developer;Desenvolvedor+Front-end+React" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,26 +16,38 @@
       <td width="30%" align="center" valign="center">
         <img src="lee.gif" width="160" style="border-radius: 100%; border: 4px solid #3F51B5;">
         <br><br>
-        <i>"O trabalho duro vence o dom natural."</i>
+        <i>"O trabalho duro vence o dom natural."</i><br>
+        <i style="font-size: 12px; color: gray;">"Hard work beats natural talent."</i>
       </td>
       <td width="70%" valign="center">
-        <h2 style="color: #3F51B5;">👋 Olá, eu sou Giovane!</h2>
+        <h2 style="color: #3F51B5;">👋 Olá / Hello, I'm Giovane!</h2>
+        
         <p>
-          Desenvolvedor focado em <b>soluções reais</b>. Transformo café e código em aplicações móveis fluidas e interfaces web de alta performance.
+          🇧🇷 <b>Desenvolvedor focado em soluções reais.</b> Transformo café e código em aplicações móveis fluidas e interfaces web de alta performance.
+          <br>
+          ✝️ <b>Sobre mim:</b> Cristão (AD Missão Caçapava), movido pela ética. Não importa se é madrugada ou fim de semana: se o desafio é bom, eu estou dentro.
         </p>
+
+        <hr style="width: 50%; opacity: 0.3;">
+
         <p>
-          ✝️ <b>Sobre mim:</b> Cristão (AD Missão Caçapava), movido pela ética e vontade de aprender. Não importa se é madrugada ou fim de semana: se o desafio é bom, eu estou dentro.
+          🇺🇸 <b>Developer focused on real solutions.</b> I turn coffee and code into fluid mobile apps and high-performance web interfaces.
+          <br>
+          ✝️ <b>About me:</b> Christian, driven by ethics and the will to learn. Whether it's late at night or on the weekend: if the challenge is good, I'm in.
         </p>
+
         <br>
-        <a href="https://www.linkedin.com/in/giovaneines/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="mailto:giovaneines.umadec@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-        </a>
-        <a href="https://giovane-portfolio.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white"/>
-        </a>
+        <div align="center">
+          <a href="https://www.linkedin.com/in/giovaneines/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+          </a>
+          <a href="mailto:giovaneines.umadec@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+          </a>
+          <a href="https://giovane-portfolio.vercel.app/">
+            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white"/>
+          </a>
+        </div>
       </td>
     </tr>
   </table>
@@ -43,10 +59,14 @@
   <table width="95%" style="border: 1px solid #ddd; border-radius: 10px;">
     <tr>
       <td align="center">
-        <h3>🏆 TOP ACHIEVEMENT: INTERCÂMBIO EM LONDRES (2022) 🇬🇧</h3>
-        <p>
-          Eleito <b>Melhor Aluno da ETEC</b> entre milhares de estudantes. <br>
-          Ganhei uma bolsa integral para estudar na Inglaterra. Essa experiência provou minha dedicação, capacidade de adaptação e inglês prático.
+        <h3>🏆 TOP ACHIEVEMENT: LONDON EXCHANGE (2022) 🇬🇧</h3>
+        
+        <p align="left" style="margin-left: 20px; margin-right: 20px;">
+          🇧🇷 <b>Intercâmbio em Londres:</b> Eleito <b>Melhor Aluno da ETEC</b> entre milhares de estudantes. Ganhei uma bolsa integral para estudar na Inglaterra. Essa experiência provou minha dedicação, adaptação e inglês prático.
+        </p>
+        
+        <p align="left" style="margin-left: 20px; margin-right: 20px;">
+          🇺🇸 <b>London Exchange:</b> Elected <b>Best Student at ETEC</b> among thousands. I won a full scholarship to study in England. This experience proved my dedication, adaptability, and practical English skills.
         </p>
       </td>
     </tr>
@@ -81,5 +101,3 @@
   <img src="https://img.shields.io/badge/Senhor_dos_Anéis-Saga-yellow?style=flat-square&logo=ring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Star_Wars-Fan-black?style=flat-square&logo=starwars&logoColor=white"/>
 </div>
-
-
