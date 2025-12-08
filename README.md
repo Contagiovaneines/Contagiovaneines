@@ -27,8 +27,7 @@
         <p>
           ✝️ <b>Perfil:</b> Cristão (AD Missão Caçapava), movido pela ética e vontade de aprender. Não importa se é madrugada ou fim de semana: se o desafio é bom, eu estou dentro.
         </p>
-        
-        <div align="center">
+                <div align="center">
           <a href="https://www.linkedin.com/in/giovaneines/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
           </a>
