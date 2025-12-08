@@ -29,7 +29,7 @@
         <a href="mailto:giovaneines.umadec@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
         </a>
-        <a href="https://contagiovaneines.github.io/">
+        <a href="https://giovane-portfolio.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white"/>
         </a>
       </td>
