@@ -1,119 +1,119 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Giovane%20Ines&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Mobile%20Flutter%20%26%20Front-end%20Developer&descSize=25&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=051937,004d7a,008793,00bf72,a8eb12&height=320&section=header&text=GIOVANE%20INES&fontSize=85&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=FULL%20STACK%20%26%20MOBILE%20DEVELOPER&descSize=25&descAlignY=65&descAlign=50"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=333333&background=00000000&center=true&vCenter=true&width=500&lines=Flutter+%26+Mobile+Specialist;React+%7C+Next.js+Developer;Hunter+x+Hunter+Fan;London+Exchange+Student+2022;Hard+Worker+Mode%3A+ON" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=25D366&background=00000000&center=true&vCenter=true&width=800&lines=Flutter+Mobile+Specialist;React+%26+Next.js+Expert;London+Exchange+Scholar+%F0%9F%87%AC%F0%9F%87%A7;Hunter+x+Hunter+Fan+%E2%AD%90;Hard+Work+%3E+Talent" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="90%">
     <tr>
-      <td width="30%" align="center">
-        <img src="lee.gif" width="140" style="border-radius: 15px; border: 4px solid #79C83D;">
+      <td width="35%" align="center">
+        <img src="lee.gif" width="220" style="border-radius: 20px; border: 5px solid #25D366; box-shadow: 0px 0px 20px #25D366;">
         <br><br>
-        <a href="https://www.linkedin.com/in/giovane-ines">
-          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-        </a>
+        <h4 style="color: #25D366;">"O trabalho duro vence o dom natural."</h4>
       </td>
-      <td width="70%">
-        <h3>🚀 Sobre Mim (About Me)</h3>
-        <p>
-          <b>"O trabalho duro vence o dom natural."</b> — Rock Lee
+      <td width="65%" valign="middle">
+        <h2 align="center">🚀 Sobre Mim</h2>
+        <p style="font-size: 16px;">
+          Não sou apenas um programador, sou um <b>criador de soluções</b>. Meu foco é entregar experiências visuais impactantes com <b>React</b> e performance nativa com <b>Flutter</b>.
         </p>
         <p>
-          Sou um desenvolvedor movido a desafios. Meu foco é <b>Mobile (Flutter)</b> e <b>Front-end (React)</b>. Não tenho medo de "botar a mão na massa": seja madrugando em um projeto pessoal ou aprendendo uma tecnologia nova no fim de semana.
+           ⚡ <b>Diferencial:</b> Não tenho "tempo ruim". Seja madrugando em projetos pessoais ou focando no prazo da empresa, eu entrego.
         </p>
         <p>
-          ✝️ <b>Cristão</b>, membro da <i>AD Missão Caçapava-SP</i>. Levo para o código a mesma dedicação e honestidade da minha fé. Sempre busco ajudar a equipe e evoluir 1% todo dia.
+           ✝️ <b>Base:</b> Cristão, membro da <i>AD Missão Caçapava-SP</i>. Ética, honestidade e compromisso são inegociáveis para mim.
         </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🏆 Epic Achievements Unlocked
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <h3>🇬🇧 International Experience</h3>
-        <img src="https://img.shields.io/badge/London_Exchange-2022-blue?style=for-the-badge&logo=british-airways&logoColor=white"/>
-        <p>Fui reconhecido como <b>Melhor Aluno da ETEC</b> e ganhei bolsa integral para intercâmbio em Londres. Uma virada de chave na minha vida.</p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🎓 Academic Stats</h3>
-        <img src="https://img.shields.io/badge/Sistemas_Internet-UniCesumar-orange?style=for-the-badge&logo=bookstack&logoColor=white"/>
         <br>
-        <img src="https://img.shields.io/badge/Tec._Desenv._Sistemas-ETEC-green?style=for-the-badge&logo=codeforces&logoColor=white"/>
+        <div align="center">
+          <a href="https://www.linkedin.com/in/giovane-ines">
+            <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+          <a href="mailto:giovaneines.umadec@gmail.com">
+            <img src="https://img.shields.io/badge/GMAIL-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+        </div>
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 🛠️ Tech Arsenal & Skills
-
-<div align="center">
-  <h4>📱 Mobile & Core</h4>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  
-  <h4>💻 Front-end Power</h4>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  <h4>🗄️ Backend & Tools</h4>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
----
-
-### 🍿 Geek Culture & Hobbies
-
-<div align="center">
-  <a href="https://myanimelist.net/">
-    <img src="https://img.shields.io/badge/Anime_Favorite-Hunter_x_Hunter-green?style=for-the-badge&logo=myanimelist&logoColor=white&color=00AA00" />
-  </a>
-  <img src="https://img.shields.io/badge/Fandom-Marvel_&_DC-red?style=for-the-badge&logo=marvel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Saga-Lord_of_the_Rings-E5B80B?style=for-the-badge&logo=ring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sci--Fi-Star_Wars-yellow?style=for-the-badge&logo=star-wars&logoColor=black" />
-</div>
-
----
-
-### 📊 GitHub Activity (The Grid)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160px" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Contagiovaneines&column=7&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&text=TOP%20ACHIEVEMENT%20UNLOCKED&fontSize=25&fontColor=000000&animation=fadeIn"/>
+  
+  <table width="90%">
+    <tr>
+      <td align="center">
+        <h1>🇬🇧 INTERCÂMBIO EM LONDRES (2022)</h1>
+        <h3>🏆 Melhor Aluno ETEC</h3>
+        <p>
+          Fui selecionado entre milhares de alunos pelo meu desempenho acadêmico para uma <b>bolsa integral na Inglaterra</b>. 
+          Isso prova minha dedicação, capacidade de adaptação cultural e inglês prático.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br>
+
 <div align="center">
-  <br>
-  <a href="mailto:giovaneines.umadec@gmail.com">
-    <img src="https://img.shields.io/badge/Mande_um_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bf72&height=50&text=TECH%20ARSENAL&fontSize=25&fontColor=ffffff&animation=fadeIn"/>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/MOBILE-FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/LANG-DART-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/NATIVE-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/FRONT-REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010" />
+  <img src="https://img.shields.io/badge/FRAMEWORK-NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/SUPERSET-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/STYLE-TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/DB-POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/CONTAINER-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010" />
+  <img src="https://img.shields.io/badge/DESIGN-FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2 style="border-bottom: 4px solid #9146FF; display: inline-block;">🍿 Geek Culture & Hobbies</h2>
+  <br><br>
+  <img src="https://img.shields.io/badge/ANIME_FAVORITO-HUNTER_X_HUNTER-green?style=for-the-badge&logo=myanimelist&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/UNIVERSO-MARVEL_%26_DC-red?style=for-the-badge&logo=marvel&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/SAGA-SENHOR_DOS_ANÉIS-yellow?style=for-the-badge&logo=ring&logoColor=white&color=black" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=004d7a&height=40&text=THE%20DATA%20GRID&fontSize=20&fontColor=ffffff"/>
+  <br><br>
+  
+  <a href="https://github.com/Contagiovaneines">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=false" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&layout=compact&theme=highcontrast&hide_border=false&langs_count=6" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://contagiovaneines.github.io/">
+    <img src="https://img.shields.io/badge/VER_MEU_PORTFOLIO_COMPLETO-FF5722?style=for-the-badge&logo=firefox&logoColor=white&height=40" />
   </a>
   <br><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FContagiovaneines&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FContagiovaneines&count_bg=%2300BF72&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true"/>
 </div>
