@@ -1,7 +1,6 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3F51B5&background=00000000&center=true&vCenter=true&width=600&lines=Flutter+Developer;React+%26+Next.js+Expert;London+Exchange+Student+%F0%9F%87%AC%F0%9F%87%A7;Hunter+x+Hunter+Fan;Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3F51B5&background=00000000&center=true&vCenter=true&width=600&lines=Mobile+Flutter+Developer;Front-end+React+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -94,6 +93,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FContagiovaneines&count_bg=%233F51B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false"/>
-</div>
