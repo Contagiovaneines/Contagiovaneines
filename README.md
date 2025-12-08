@@ -82,13 +82,4 @@
   <img src="https://img.shields.io/badge/Star_Wars-Fan-black?style=flat-square&logo=starwars&logoColor=white"/>
 </div>
 
-<br>
 
-<div align="center">
-  <a href="https://github.com/Contagiovaneines">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
-  </a>
-</div>
-
-<br>
