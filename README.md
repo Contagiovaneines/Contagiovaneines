@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Mobile+Flutter+Developer;Front-end+React+Specialist;Pixel-Perfect+Obsessed;Manga+%26+Comics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Mobile+Flutter+Developer;Front-end+React+Specialist;Hunter+x+Hunter+Fan;London+Exchange+Student+2022" alt="Typing SVG" />
   
   <br>
 
@@ -25,11 +25,20 @@
 
 ### 👨‍💻 Character Profile: Giovane Ines
 
-> **"Transformo café e referências pop em interfaces incríveis."**
+> **"Sempre aprendendo, sempre codando."**
 
-Sou um desenvolvedor apaixonado pela intersecção entre **arte visual** e **lógica de programação**. Assim como nos melhores arcos de mangá, acredito que a evolução é constante. 
+Sou um desenvolvedor focado em **Flutter** e **React**, movido pela curiosidade e pela vontade de ajudar o time a crescer. Não tenho "tempo ruim": seja madrugada ou fim de semana, se o projeto me empolga, estou lá dando o meu melhor.
 
-Meu foco é construir aplicações **Mobile (Flutter)** e **Front-end (React ecosystem)** que não apenas funcionam, mas encantam. Quando não estou "codando" o próximo projeto, estou provavelmente analisando a cinematografia de um filme ou lendo o capítulo mais recente da minha lista de leitura.
+Minha base é a fé e a dedicação. Sou cristão, membro da **AD Missão em Caçapava-SP**, e trago para o código os mesmos valores de compromisso que levo na vida.
+
+---
+
+### 🏆 Epic Achievements (Histórico)
+
+| Conquista | Detalhes |
+| :--- | :--- |
+| 🇬🇧 **Intercâmbio em Londres** | Em 2022, fui reconhecido como o **Melhor Aluno da ETEC**, ganhando uma bolsa integral para estudar na Inglaterra. Uma experiência que expandiu minha visão de mundo e inglês. |
+| 🎓 **Formação Contínua** | Graduando em Sistemas para Internet (UniCesumar) e Técnico em Desenv. de Sistemas (ETEC). |
 
 ---
 
@@ -41,19 +50,29 @@ Meu foco é construir aplicações **Mobile (Flutter)** e **Front-end (React eco
 
 ---
 
-### 🍿 Side Quests & Interests
+### 🍿 Geek Culture & Hobbies
+
+Sou apaixonado por Ficção e Fantasia. Minhas referências moldam minha criatividade:
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">🎥 <b>Cinema</b></td>
-      <td align="center" width="33%">📚 <b>Quadrinhos/Manga</b></td>
-      <td align="center" width="33%">🎧 <b>Criação</b></td>
+      <td align="center" width="33%">🎬 <b>Universo Cinematográfico</b></td>
+      <td align="center" width="33%">🎌 <b>Anime Favorito</b></td>
+      <td align="center" width="33%">📚 <b>Leitura</b></td>
     </tr>
     <tr>
-      <td align="center">Aprecio narrativas visuais<br>e roteiros complexos.</td>
-      <td align="center">Colecionador de histórias.<br>Shonen, Seinen & Graphic Novels.</td>
-      <td align="center">Amo o processo de tirar<br>ideias do papel.</td>
+      <td align="center">
+        Sci-Fi • Marvel • DC<br>
+        Star Wars • O Senhor dos Anéis
+      </td>
+      <td align="center">
+        <b>Hunter x Hunter</b><br>
+        <i>(Nen Master em treinamento)</i>
+      </td>
+      <td align="center">
+        Sempre com um livro ou<br>quadrinho na mão.
+      </td>
     </tr>
   </table>
 </div>
@@ -72,19 +91,13 @@ Meu foco é construir aplicações **Mobile (Flutter)** e **Front-end (React eco
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iuricode&column=7&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Contagiovaneines&column=7&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
----
-
-### 📜 Education Log
-
-| Class | Guild (Instituição) | Timeline |
-| :--- | :---: | :---: |
-| **Sistemas para Internet** | UniCesumar | *2022 – 2025* |
-| **Téc. Desenv. Sistemas** | ETEC Machado de Assis | *2021 – 2022* |
+<br>
 
 <div align="center">
-  <br>
-  <img src="https://profile-counter.glitch.me/Contagiovaneines/count.svg" alt="Visitors">
+  <a href="https://github.com/Contagiovaneines">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FContagiovaneines&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+  </a>
 </div>
