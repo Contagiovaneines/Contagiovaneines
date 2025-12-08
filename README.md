@@ -1,77 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Mobile+Flutter+Developer;Front-end+React+Specialist;Hunter+x+Hunter+Fan;London+Exchange+Student+2022" alt="Typing SVG" />
-  
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Giovane%20Ines&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Mobile%20Flutter%20%26%20Front-end%20Developer&descSize=25&descAlignY=60&descAlign=50"/>
+</div>
 
-  <img src="lee.gif" width="50" style="vertical-align: middle; border-radius: 50%;">
-  <h3 style="display: inline; font-style: italic;">"O trabalho duro vence o dom natural." – Rock Lee</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=333333&background=00000000&center=true&vCenter=true&width=500&lines=Flutter+%26+Mobile+Specialist;React+%7C+Next.js+Developer;Hunter+x+Hunter+Fan;London+Exchange+Student+2022;Hard+Worker+Mode%3A+ON" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/giovane-ines">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://contagiovaneines.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Me-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 Character Profile: Giovane Ines
-
-> **"Sempre aprendendo, sempre codando."**
-
-Sou um desenvolvedor focado em **Flutter** e **React**, movido pela curiosidade e pela vontade de ajudar o time a crescer. Não tenho "tempo ruim": seja madrugada ou fim de semana, se o projeto me empolga, estou lá dando o meu melhor.
-
-Minha base é a fé e a dedicação. Sou cristão, membro da **AD Missão em Caçapava-SP**, e trago para o código os mesmos valores de compromisso que levo na vida.
-
----
-
-### 🏆 Epic Achievements (Histórico)
-
-| Conquista | Detalhes |
-| :--- | :--- |
-| 🇬🇧 **Intercâmbio em Londres** | Em 2022, fui reconhecido como o **Melhor Aluno da ETEC**, ganhando uma bolsa integral para estudar na Inglaterra. Uma experiência que expandiu minha visão de mundo e inglês. |
-| 🎓 **Formação Contínua** | Graduando em Sistemas para Internet (UniCesumar) e Técnico em Desenv. de Sistemas (ETEC). |
-
----
-
-### ⚔️ Tech Arsenal (Skills)
-
-| **Main Quest (Foco Principal)** | **Inventory (Ferramentas & Back)** |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <br> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
-
----
-
-### 🍿 Geek Culture & Hobbies
-
-Sou apaixonado por Ficção e Fantasia. Minhas referências moldam minha criatividade:
-
-<div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="33%">🎬 <b>Universo Cinematográfico</b></td>
-      <td align="center" width="33%">🎌 <b>Anime Favorito</b></td>
-      <td align="center" width="33%">📚 <b>Leitura</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        Sci-Fi • Marvel • DC<br>
-        Star Wars • O Senhor dos Anéis
+      <td width="30%" align="center">
+        <img src="lee.gif" width="140" style="border-radius: 15px; border: 4px solid #79C83D;">
+        <br><br>
+        <a href="https://www.linkedin.com/in/giovane-ines">
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+        </a>
       </td>
-      <td align="center">
-        <b>Hunter x Hunter</b><br>
-        <i>(Nen Master em treinamento)</i>
-      </td>
-      <td align="center">
-        Sempre com um livro ou<br>quadrinho na mão.
+      <td width="70%">
+        <h3>🚀 Sobre Mim (About Me)</h3>
+        <p>
+          <b>"O trabalho duro vence o dom natural."</b> — Rock Lee
+        </p>
+        <p>
+          Sou um desenvolvedor movido a desafios. Meu foco é <b>Mobile (Flutter)</b> e <b>Front-end (React)</b>. Não tenho medo de "botar a mão na massa": seja madrugando em um projeto pessoal ou aprendendo uma tecnologia nova no fim de semana.
+        </p>
+        <p>
+          ✝️ <b>Cristão</b>, membro da <i>AD Missão Caçapava-SP</i>. Levo para o código a mesma dedicação e honestidade da minha fé. Sempre busco ajudar a equipe e evoluir 1% todo dia.
+        </p>
       </td>
     </tr>
   </table>
@@ -79,25 +38,82 @@ Sou apaixonado por Ficção e Fantasia. Minhas referências moldam minha criativ
 
 ---
 
-### 📊 Battle Stats (Analytics)
+### 🏆 Epic Achievements Unlocked
 
 <div align="center">
-  <a href="https://github.com/Contagiovaneines">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>🇬🇧 International Experience</h3>
+        <img src="https://img.shields.io/badge/London_Exchange-2022-blue?style=for-the-badge&logo=british-airways&logoColor=white"/>
+        <p>Fui reconhecido como <b>Melhor Aluno da ETEC</b> e ganhei bolsa integral para intercâmbio em Londres. Uma virada de chave na minha vida.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎓 Academic Stats</h3>
+        <img src="https://img.shields.io/badge/Sistemas_Internet-UniCesumar-orange?style=for-the-badge&logo=bookstack&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Tec._Desenv._Sistemas-ETEC-green?style=for-the-badge&logo=codeforces&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ Tech Arsenal & Skills
+
+<div align="center">
+  <h4>📱 Mobile & Core</h4>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  
+  <h4>💻 Front-end Power</h4>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <h4>🗄️ Backend & Tools</h4>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+---
+
+### 🍿 Geek Culture & Hobbies
+
+<div align="center">
+  <a href="https://myanimelist.net/">
+    <img src="https://img.shields.io/badge/Anime_Favorite-Hunter_x_Hunter-green?style=for-the-badge&logo=myanimelist&logoColor=white&color=00AA00" />
   </a>
+  <img src="https://img.shields.io/badge/Fandom-Marvel_&_DC-red?style=for-the-badge&logo=marvel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Saga-Lord_of_the_Rings-E5B80B?style=for-the-badge&logo=ring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sci--Fi-Star_Wars-yellow?style=for-the-badge&logo=star-wars&logoColor=black" />
+</div>
+
+---
+
+### 📊 GitHub Activity (The Grid)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contagiovaneines&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160px" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Contagiovaneines&column=7&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Contagiovaneines&column=7&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
-<br>
-
 <div align="center">
-  <a href="https://github.com/Contagiovaneines">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FContagiovaneines&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+  <br>
+  <a href="mailto:giovaneines.umadec@gmail.com">
+    <img src="https://img.shields.io/badge/Mande_um_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br><br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FContagiovaneines&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 </div>
