@@ -74,7 +74,6 @@
   </tr>
 </table>
 
-<p align="center"><i>Substitua estes por seus 4 melhores projetos com deploy funcionando — priorize Flutter/React, que é o que seu perfil promete.</i></p>
 
 <br>
 
@@ -122,7 +121,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contagiovaneines&hide_border=true" height="165" />
 </div>
 
-<p align="center"><i>Cards de stats do GitHub — mostram atividade e linguagens mais usadas em tempo real.</i></p>
 
 <br>
 
