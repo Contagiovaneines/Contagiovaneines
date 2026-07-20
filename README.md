@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3F51B5&background=00000000&center=true&vCenter=true&width=600&lines=Mobile+Flutter+Developer;Front-end+React+Developer;Pixel-Perfect+Obsessed" alt="Typing SVG" />
@@ -20,19 +18,19 @@
         <img src="https://capsule-render.vercel.app/api?type=rect&color=3F51B5&height=40&text=SOBRE%20MIM&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" align="center" />
         <br>
         <p>
-          👋 <b>Olá, eu sou Giovane!</b> Desenvolvedor focado em <b>soluções reais</b>. Transformo café e código em aplicações móveis fluidas e interfaces web de alta performance.
+          👋 <b>Olá, eu sou Giovane!</b> Desenvolvedor Flutter e Front-end (React/TypeScript) focado em soluções reais. Transformo café e código em aplicações móveis fluidas e interfaces web de alta performance.
         </p>
         <p>
-          ✝️ <b>Perfil:</b> Cristão (AD Missão Caçapava), movido pela ética e vontade de aprender. Não importa se é madrugada ou fim de semana: se o desafio é bom, eu estou dentro.
+          🎓 <b>Melhor Aluno da ETEC (2023)</b> — bolsista de intercâmbio integral em Londres. Cristão, movido pela ética e vontade de aprender.
         </p>
-                <div align="center">
-          <a href="https://www.linkedin.com/in/giovaneines/">
+        <div align="center">
+          <a href="https://www.linkedin.com/in/giovane-ines/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
           </a>
           <a href="mailto:giovaneines.umadec@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
           </a>
-          <a href="https://giovane-portfolio.vercel.app/">
+          <a href="https://portfolio-giovane.vercel.app/">
             <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
           </a>
         </div>
@@ -44,8 +42,45 @@
 <br>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bf72&height=45&text=PROJETOS%20EM%20DESTAQUE&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛒 Desafio E-commerce — DIO / Santander Bootcamp</b><br>
+      Aplicação de e-commerce construída em TypeScript como desafio de bootcamp.<br>
+      <a href="https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander">Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>📚 Sistemas-Livros</b><br>
+      Sistema de gerenciamento de livros em TypeScript.<br>
+      <a href="https://github.com/Contagiovaneines/Sistemas-Livros">Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📦 Sistema de Gerenciamento de Estoque</b><br>
+      Desafio Kaspper — controle de estoque em Java.<br>
+      <a href="https://github.com/Contagiovaneines/Sistema-de-Gerenciamento-de-Estoque">Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>🌐 Portfólio Pessoal</b><br>
+      Site de portfólio, publicado via Vercel.<br>
+      <a href="https://portfolio-giovane.vercel.app/">Ver ao vivo</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>Substitua estes por seus 4 melhores projetos com deploy funcionando — priorize Flutter/React, que é o que seu perfil promete.</i></p>
+
+<br>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=50&text=TOP%20ACHIEVEMENT%20%E2%AD%90&fontSize=22&fontColor=000000&animation=fadeIn" width="90%" />
-  
+
   <table width="90%" style="border: none;">
     <tr>
       <td align="center">
@@ -62,9 +97,9 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00bf72&height=45&text=TECH%20ARSENAL&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3F51B5&height=45&text=TECH%20ARSENAL&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
   <br><br>
-  
+
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -83,12 +118,19 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Contagiovaneines&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contagiovaneines&hide_border=true" height="165" />
+</div>
+
+<p align="center"><i>Cards de stats do GitHub — mostram atividade e linguagens mais usadas em tempo real.</i></p>
+
+<br>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9146FF&height=45&text=GEEK%20MODE&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
   <br><br>
-  
   <img src="https://img.shields.io/badge/Hunter_x_Hunter-Fan-green?style=for-the-badge&logo=myanimelist&logoColor=white"/>
   <img src="https://img.shields.io/badge/Marvel_%26_DC-Lover-red?style=for-the-badge&logo=marvel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Senhor_dos_Anéis-Saga-yellow?style=for-the-badge&logo=ring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Star_Wars-Fan-black?style=for-the-badge&logo=starwars&logoColor=white"/>
 </div>
-
