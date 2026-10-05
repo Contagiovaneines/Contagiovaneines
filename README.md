@@ -41,6 +41,16 @@
 
 <br>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Contagiovaneines/Contagiovaneines/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Contagiovaneines/Contagiovaneines/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Contagiovaneines/Contagiovaneines/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<br>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00bf72&height=45&text=PROJETOS%20EM%20DESTAQUE&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
