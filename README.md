@@ -47,8 +47,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Contagiovaneines/Contagiovaneines/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
-###
-
 <br>
 
 <div align="center">
